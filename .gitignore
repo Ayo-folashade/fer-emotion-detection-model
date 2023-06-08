@@ -1,0 +1,41 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Environment
+.env
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
